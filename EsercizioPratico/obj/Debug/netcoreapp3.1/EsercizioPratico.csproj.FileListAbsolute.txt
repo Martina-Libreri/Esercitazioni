@@ -1,0 +1,13 @@
+C:\Users\martina.libreri\Desktop\Corso\Progetti\EsercizioPratico\EsercizioPratico\bin\Debug\netcoreapp3.1\EsercizioPratico.exe
+C:\Users\martina.libreri\Desktop\Corso\Progetti\EsercizioPratico\EsercizioPratico\bin\Debug\netcoreapp3.1\EsercizioPratico.deps.json
+C:\Users\martina.libreri\Desktop\Corso\Progetti\EsercizioPratico\EsercizioPratico\bin\Debug\netcoreapp3.1\EsercizioPratico.runtimeconfig.json
+C:\Users\martina.libreri\Desktop\Corso\Progetti\EsercizioPratico\EsercizioPratico\bin\Debug\netcoreapp3.1\EsercizioPratico.runtimeconfig.dev.json
+C:\Users\martina.libreri\Desktop\Corso\Progetti\EsercizioPratico\EsercizioPratico\bin\Debug\netcoreapp3.1\EsercizioPratico.dll
+C:\Users\martina.libreri\Desktop\Corso\Progetti\EsercizioPratico\EsercizioPratico\bin\Debug\netcoreapp3.1\EsercizioPratico.pdb
+C:\Users\martina.libreri\Desktop\Corso\Progetti\EsercizioPratico\EsercizioPratico\obj\Debug\netcoreapp3.1\EsercizioPratico.csprojAssemblyReference.cache
+C:\Users\martina.libreri\Desktop\Corso\Progetti\EsercizioPratico\EsercizioPratico\obj\Debug\netcoreapp3.1\EsercizioPratico.AssemblyInfoInputs.cache
+C:\Users\martina.libreri\Desktop\Corso\Progetti\EsercizioPratico\EsercizioPratico\obj\Debug\netcoreapp3.1\EsercizioPratico.AssemblyInfo.cs
+C:\Users\martina.libreri\Desktop\Corso\Progetti\EsercizioPratico\EsercizioPratico\obj\Debug\netcoreapp3.1\EsercizioPratico.csproj.CoreCompileInputs.cache
+C:\Users\martina.libreri\Desktop\Corso\Progetti\EsercizioPratico\EsercizioPratico\obj\Debug\netcoreapp3.1\EsercizioPratico.dll
+C:\Users\martina.libreri\Desktop\Corso\Progetti\EsercizioPratico\EsercizioPratico\obj\Debug\netcoreapp3.1\EsercizioPratico.pdb
+C:\Users\martina.libreri\Desktop\Corso\Progetti\EsercizioPratico\EsercizioPratico\obj\Debug\netcoreapp3.1\EsercizioPratico.genruntimeconfig.cache
